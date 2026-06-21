@@ -1,0 +1,5 @@
+{
+	"appId": "com.sdv.simulator",
+	"appName": "Vehicle Simulator",
+	"webDir": "dist"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "AAOS Vehicle Sensor Simulator",
+  "description": "A high-fidelity sensor mocking and diagnostics simulator for Android Automotive OS (AAOS) and Software-Defined Vehicle (SDV) developers, featuring real-time data visualizers, error logs, and a test scripting interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
